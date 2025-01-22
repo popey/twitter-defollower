@@ -20,7 +20,8 @@ The script will:
 
 * Python 3.10 or higher
 * Chrome or Chromium browser
-* [uv](https://github.com/astral-sh/uv) (for virtual environment and dependency management)
+* [uv](https://github.com/astral-sh/uv) (for virtual environment and dependency management) or any other virtual-env system
+  * I just really like uv, okay 
 * [Selenium](https://pypi.org/project/selenium/)
 
 ## Installation
@@ -95,6 +96,10 @@ Processed 10 followers, refreshing page...
 
   🤷‍♂️
 
+* Does it stop people re-following you?
+
+  Nope. Use Twitter profile security settings to do that, if you can.
+
 * What if they change the flow / add bot detection?
 
   The script might break. 😱 (patches welcome)
@@ -102,6 +107,10 @@ Processed 10 followers, refreshing page...
 * What if they block or suspend the account?
 
   Then the account will be blocked or suspended.
+
+* Does it require uv?
+
+  Nope, you can use `python-venv` or whatever other favourtie way you have for making python virtual environments. I've only tested with uv.
 
 ## License
 
