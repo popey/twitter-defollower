@@ -52,6 +52,39 @@ email_or_phone = "your_email_or_phone"  # Used if X requires additional verifica
 python twitter-defollower.py
 ```
 
+## Sample output
+
+```bash
+No additional verification required
+Successfully logged in!
+Loading followers page...
+Found 147 followers to process
+Successfully removed follower. Total processed: 1
+Successfully removed follower. Total processed: 2
+Successfully removed follower. Total processed: 3
+Successfully removed follower. Total processed: 4
+Successfully removed follower. Total processed: 5
+Successfully removed follower. Total processed: 6
+Successfully removed follower. Total processed: 7
+Successfully removed follower. Total processed: 8
+Successfully removed follower. Total processed: 9
+Successfully removed follower. Total processed: 10
+Processed 10 followers, refreshing page...
+Loading followers page...
+Found 145 followers to process
+Successfully removed follower. Total processed: 11
+Successfully removed follower. Total processed: 12
+Successfully removed follower. Total processed: 13
+Successfully removed follower. Total processed: 14
+Successfully removed follower. Total processed: 15
+Successfully removed follower. Total processed: 16
+Successfully removed follower. Total processed: 17
+Successfully removed follower. Total processed: 18
+Successfully removed follower. Total processed: 19
+Successfully removed follower. Total processed: 20
+Processed 10 followers, refreshing page...
+```
+
 ## License
 
 * MIT
