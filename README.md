@@ -85,6 +85,24 @@ Successfully removed follower. Total processed: 20
 Processed 10 followers, refreshing page...
 ```
 
+## FAQ
+
+* Why do this?
+
+  Why not?
+
+* Why don't you just delete your Twitter/X account?
+
+  🤷‍♂️
+
+* What if they change the flow / add bot detection?
+
+  The script might break. 😱 (patches welcome)
+
+* What if they block or suspend the account?
+
+  Then the account will be blocked or suspended.
+
 ## License
 
 * MIT
